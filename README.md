@@ -27,8 +27,13 @@ To run the projects locally, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
+                (or)
 
-3. **Run the App**:
+   ```bash
+   pip install streamlit
+   ```
+
+4. **Run the App**:
     Navigate to the project directory you want to run and execute:
     ```bash
     streamlit run app.py
