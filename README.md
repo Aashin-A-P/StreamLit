@@ -16,24 +16,12 @@ This repository contains a variety of projects that illustrate the capabilities 
 
 To run the projects locally, follow these steps:
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/StreamLit.git
-    cd StreamLit
-    ```
-
-2. **Install Dependencies**:
-    Ensure you have Python and pip installed, then run:
-    ```bash
-    pip install -r requirements.txt
-    ```
-                or
-
+1. **Install StreamLit**:
    ```bash
    pip install streamlit
    ```
 
-4. **Run the App**:
+2. **Run the App**:
     Navigate to the project directory you want to run and execute:
     ```bash
     streamlit run app.py
