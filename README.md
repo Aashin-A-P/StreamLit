@@ -2,7 +2,7 @@ Here's a detailed description for the README file of your "StreamLit" repository
 
 ---
 
-# StreamLit
+# StreamLit-Apps
 
 Welcome to the **StreamLit** repository! This collection showcases a series of projects developed using the StreamLit framework. StreamLit is an open-source app framework for Machine Learning and Data Science projects that allows for rapid creation of interactive and visually appealing web applications.
 
