@@ -27,7 +27,7 @@ To run the projects locally, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
-                (or)
+                or
 
    ```bash
    pip install streamlit
