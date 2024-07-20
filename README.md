@@ -42,4 +42,3 @@ Happy coding and exploring with StreamLit! 🚀
 
 ---
 
-Feel free to adjust the details to better fit your specific projects and preferences.
